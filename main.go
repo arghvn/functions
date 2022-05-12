@@ -19,6 +19,11 @@ func plusPlus(a, b, c int) int {
 
 	return a + b + c
 }
+
+//Call a function just as you’d expect, with name(args).
+
+//There are several other features to Go functions. One is multiple return values.
+
 func main() {
 
 	res := plus(1, 2)
